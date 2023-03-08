@@ -1,17 +1,17 @@
 
 # Hey, I'm Chris 👋
 
-## Why don't you check out some of my recent open source repos or visit [my web site](https://www.chris-snowden.me/ 'Link to my personal website').
+> Why don't you check out some of my recent open source repos or visit [my web site](https://www.chris-snowden.me/ 'Link to my personal website').
 
-### The source code is [here](https://github.com/Recidvst/chris-snowden.me 'Link to the source code of my website on GitHub'), so you can send me a PR if you see a bug 👀
+__Currently I am:__ 
 
-- 🔭 I’m currently working on modernising my personal website and improving/rewriting a couple of my open source javascript packages.
-- 🌱 I’m currently learning Go and C#/.NET
-- 👯 I’m open to collaborating on most things!
+- 👨‍💻 Working as a Full Stack Software Engineer at SSE in the UK.
+- 🔭 Trying to find time to improve/rewrite a couple of my open source javascript packages and side projects.
+- 📚 Getting to grips with C#/.NET
 
+--- 
 
-
-## 🧰 Languages and Tools
+__🧰 Languages and Tools I use:__  
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
