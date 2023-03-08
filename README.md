@@ -1,13 +1,13 @@
 
 # Hey, I'm Chris 👋
 
-> Why don't you check out some of my recent open source repos or visit [my web site](https://www.chris-snowden.me/ 'Link to my personal website').
-
-__Currently I am:__ 
+__I am:__ 
 
 - 👨‍💻 Working as a Full Stack Software Engineer at SSE in the UK.
 - 🔭 Trying to find time to improve/rewrite a couple of my open source javascript packages and side projects.
 - 📚 Getting to grips with C#/.NET
+
+> Why don't you check out some of my recent open source repos or visit [my web site](https://www.chris-snowden.me/ 'Link to my personal website').
 
 --- 
 
@@ -22,20 +22,14 @@ __🧰 Languages and Tools I use:__
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<br />  
-
----
-
+<br /><br/>
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-<br />
-
----
-
+<br /><br />
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
@@ -45,7 +39,5 @@ __🧰 Languages and Tools I use:__
 <br />
 
 ---
-
-### 📊 Stats
 
 ![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=recidvst&show_icons=true&theme=tokyonight)
