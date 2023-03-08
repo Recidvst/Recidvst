@@ -43,3 +43,9 @@ __🧰 Languages and Tools I use:__
 <img align="left" alt="NPM" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+---
+
+### 📊 Stats
+
+![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=recidvst&show_icons=true&theme=tokyonight)
