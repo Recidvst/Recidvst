@@ -3,7 +3,7 @@
 
 __I am:__ 
 
-- 👨‍💻 Working as a Full Stack Software Engineer at SSE in the UK.
+- 👨‍💻 Working as a Senior Full Stack Software Engineer at SSE in the UK.
 - 📚 Currently working mostly with C#/.NET, React/Next.js, Node and Go.
 - 🔭 Trying to find time to improve/rewrite a couple of my open source npm packages and side projects.
 
